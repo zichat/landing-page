@@ -1,1 +1,1 @@
-# landing-page
+Mordern Landing Page for a bank.
